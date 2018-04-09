@@ -6,4 +6,4 @@ Follow the instructions in each `README` file.
 
 ## Projects
 * [Titanic](./Titanic): Intro to Machine Learning prediction
-* US weather
+* [US-weather](./US-weather): Data visualisation 
