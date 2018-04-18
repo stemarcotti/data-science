@@ -7,7 +7,7 @@ Data are represented by:
 * Weather information at US airports from 2005-01-01 to 2007-07-18
 
 ### Source code
-[US-flights.ipynb](US-flights.ipynb) in folder [src] contains the Jupyter notebook code for:   
+[US-flights.ipynb](../src/US-flights.ipynb) in folder [src] contains the Jupyter notebook code for:   
 * data exploration
 * data cleaning
 * data visualisation
