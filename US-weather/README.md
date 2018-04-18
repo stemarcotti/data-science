@@ -7,7 +7,7 @@ Weather phenomena data was obtained from Wikipedia and Data should be saved in l
 * Weather in [Chicago (Illinois)](https://en.wikipedia.org/wiki/Chicago#Climate)   
 
 ### Source code
-[US-weather.ipynb](US-weather.ipynb) in folder [src] contains the Jupyter notebook code to visualise average weather phenomena in Boston and Chicago
+US-weather.ipynb in folder [src] contains the Jupyter notebook code to visualise average weather phenomena in Boston and Chicago
 
 ### Output
 ![weather](US-weather.png)
