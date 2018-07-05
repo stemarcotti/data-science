@@ -13,3 +13,4 @@ It is structured as per the schematic below:
 * 1_introduction.sql contains basic queries
 * 2_join.sql contains examples of queries using JOIN functions
 * 3_aggregations.sql contains queries using aggregate functions
+* 4_subqueries.sql contains examples of subqueries to pull intermediate tables
